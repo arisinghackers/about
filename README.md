@@ -1,5 +1,5 @@
 # ABOUT
-About the Community
+Community Guidelines
 
 <b>ARISING HACKERS</b> is more than just a community - it's a movement. Based in Mozambique, our mission is to empower individuals with the knowledge and skills needed to combat the growing threat of cybercrime. With technology playing an increasingly vital role in our daily lives, it's more important than ever to stay vigilant and aware of the risks we face in the digital world.
 
